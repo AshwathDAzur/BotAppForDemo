@@ -1,0 +1,15 @@
+[
+    {
+        "Schema" : "Opportunity",
+        "Fields": ["Stage.Name","Type.Name","Description","DueDate","Budget","Completeness","LeadType.Name"]
+    },
+    {
+        "Schema" : "Invoice",
+        "Fields": []
+    },
+    {
+        "Schema" : "Order",
+        "Fields": []
+    }
+]
+
